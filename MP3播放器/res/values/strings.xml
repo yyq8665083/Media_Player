@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 软件名称 -->
+    <string name="app_name">MP3播放器</string>
+
+    <!-- 初始页面   选项卡1 播放页面 -->
+    <string name="tab_1">音乐</string>
+
+    <!-- 播放页面选项 -->
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="stop">结束</string>
+
+    <!-- 选项卡2 播放列表页面 -->
+    <string name="tab_2">列表</string>
+
+    <!-- 选项卡3 设置页面 -->
+    <string name="tab_3">设置</string>
+    <string name="from_res_raw">从资源文件res/drawable加载MP3</string>
+    <string name="from_sdcard">从SD卡目录加载MP3</string>
+    <string name="from_network">从网络加载MP3</string>
+    <string name="current_MP3_path">当前播放MP3路径: </string>
+
+</resources>
