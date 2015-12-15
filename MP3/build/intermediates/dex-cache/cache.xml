@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android_workplace\MP3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8fd5bcbec96305a4faf1d48a8ca6133f7fc0ec5f">
+        <dex dex="E:\android_workplace\MP3\app\build\intermediates\pre-dexed\debug\instant-run_a3bbd9ec8a74f66a92af0685ee6c8b382e2906a3.jar" />
+    </item>
+    <item
+        jar="E:\android_workplace\MP3\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86a18e81dd4110ee9376ffae3b4b7ff5eb0bc097">
+        <dex dex="E:\android_workplace\MP3\app\build\intermediates\pre-dexed\debug\classes_df9700e3e8c366b31697021a23a1ea873acf5e7e.jar" />
+    </item>
+
+</items>

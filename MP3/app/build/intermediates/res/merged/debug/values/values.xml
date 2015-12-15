@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP3播放器</string>
+    <string name="current_MP3_path">当前播放MP3路径: </string>
+    <string name="from_network">从网络加载MP3</string>
+    <string name="from_res_raw">从资源文件res/drawable加载MP3</string>
+    <string name="from_sdcard">从SD卡目录加载MP3</string>
+    <string name="pause">暂停</string>
+    <string name="start">开始</string>
+    <string name="stop">结束</string>
+    <string name="tab_1">音乐</string>
+    <string name="tab_2">列表</string>
+    <string name="tab_3">设置</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
